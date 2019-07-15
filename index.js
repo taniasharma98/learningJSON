@@ -1,10 +1,17 @@
-var express = require("express");
-var app = express();
+
+const express = require("express");
+
+const  app = express();
+
+app.get("/users", (req, res) => {
+  res.sendFile(__dirname + "/data.json");
+})
+
+app.get("/", (req, res) => {
+  res.sendFile(__dirname + "/public/project.html");
+})
+
+
 app.listen(5059, () => {
- console.log("Server running on port 5059");
-});
-
-
-app.get('/', function(req, res){
-        res.sendFile(path + 'index.html');
-        })
+ console.log("Server running on port 5059")
+})

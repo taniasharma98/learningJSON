@@ -1,0 +1,58 @@
+[
+  {
+    "id":1,"firstName":"Tania",
+    "lastName":"Sharma"
+    },
+
+    {
+      "id":2,"firstName":"Jake",
+      "lastName":"Xia"
+      },
+
+      {
+        "id":3,"firstName":"Richard",
+        "lastName":"Deborja"
+        },
+
+      {
+        "id":4,"firstName":"Jinwoo",
+        "lastName":"Hwang"
+        },
+
+        {
+          "id":5,"firstName":"Natalie",
+          "lastName":"Stickle"
+        },
+
+        {
+          "id":6,"firstName":"Zhibin",
+          "lastName":"Lu"
+        },
+
+        {
+          "id":7,"firstName":"Kawhi",
+          "lastName":"Leonard"
+        },
+
+        {
+          "id":8,"firstName":"Fred",
+          "lastName":"Vanvleet"
+        },
+
+        {
+          "id":9,"firstName":"Stephen",
+          "lastName":"Curry"
+        },
+
+        {
+          "id":10,"firstName":"Kyle",
+          "lastName":"Lowry"
+        },
+
+
+        {
+          "id":11,"firstName":"Pascal",
+          "lastName":"Siakam"
+        }
+
+        ]
