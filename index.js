@@ -8,7 +8,7 @@ app.get("/users", (req, res) => {
 })
 
 app.get("/", (req, res) => {
-  res.sendFile(__dirname + "/public/project.html");
+  res.sendFile(__dirname + "/views/project.html");
 })
 
 
